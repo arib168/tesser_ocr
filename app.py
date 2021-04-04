@@ -2,7 +2,7 @@
 #takes the entire code and puts it in app.py since streamlit runs only on COMMAND LINE INTERFACE(CLI)  using  .py files
 import numpy as np
 import streamlit as st
-import cv2
+import cv2  
 import pytesseract
 from PIL import Image   #python imaging library, to open image, streamlit doesn't support cv2 directly to display
 st.set_option('deprecation.showfileUploaderEncoding', False)  #to warning ignore 
