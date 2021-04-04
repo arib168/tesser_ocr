@@ -1,4 +1,4 @@
 streamlit 
 pytesseract
-opencv-python 
 numpy 
+opencv-contrib-python
