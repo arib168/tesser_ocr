@@ -1,5 +1,4 @@
 streamlit 
-tesseract-ocr
 pytesseract
 opencv-python 
 numpy 
