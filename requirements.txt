@@ -1,0 +1,5 @@
+streamlit 
+tesseract-ocr
+pytesseract
+opencv 
+Numpy 
