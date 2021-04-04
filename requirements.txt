@@ -1,5 +1,5 @@
 streamlit 
 tesseract-ocr
 pytesseract
-opencv 
-Numpy 
+opencv-python 
+numpy 
