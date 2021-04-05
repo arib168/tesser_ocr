@@ -1,6 +1,6 @@
 #magic command to create a python file from ipynb
 #takes the entire code and puts it in app.py since streamlit runs only on COMMAND LINE INTERFACE(CLI)  using  .py files
-import numpy as np
+import numpy as np 
 import streamlit as st
 import cv2
 import pytesseract
